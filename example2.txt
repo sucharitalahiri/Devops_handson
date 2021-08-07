@@ -1,1 +1,2 @@
-Devops handson
+Devops handson for learning devops
+
