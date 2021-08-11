@@ -1,1 +1,2 @@
-New file from feature1 branch
+New file from feature1 branch.
+Made some changes
