@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 hi,
 How are you?
+=======
+text file
+>>>>>>> Stashed changes
